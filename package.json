@@ -17,6 +17,7 @@
     "@babel/core": "^7.20.0",
     "@babel/preset-env": "^7.20.0",
     "@babel/runtime": "^7.20.0",
+    "@react-native-community/cli": "13.6.9",
     "@react-native/babel-preset": "0.74.88",
     "@react-native/eslint-config": "0.74.88",
     "@react-native/metro-config": "0.74.88",
@@ -32,5 +33,6 @@
   },
   "engines": {
     "node": ">=18"
-  }
+  },
+  "packageManager": "yarn@1.22.19"
 }
